@@ -1,7 +1,7 @@
 {
     "name": "friend_finder",
     "version": "1.0.0",
-    "description": "A dating application that takes in user information and returns their best match. ",
+    "description": "A friend matching game that takes in user information and returns their best match from 'The Simpsons'. ",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nickui/friendfinder.git"
+        "url": "git+https://github.com/nquickact/friendfinder.git"
     },
     "author": "Nathan Quick",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/nickui/friendfinder/issues"
+        "url": "https://github.com/nquickact/friendfinder/issues"
     },
-    "homepage": "https://github.com/nickui/friendfinder#readme",
+    "homepage": "https://github.com/nquickact/friendfinder#readme",
     "dependencies": {
         "body-parser": "^1.18.1",
         "express": "^4.15.4",
